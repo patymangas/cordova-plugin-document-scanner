@@ -7,5 +7,5 @@ allprojects {
 }
 
 dependencies {
-	implementation 'com.github.noesislcsdevhub:scanlibrary:OutSystems-SNAPSHOT'
+	implementation 'com.github.noesislcsdevhub:scanlibrary:OS2_3.3.1'
 }
